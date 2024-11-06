@@ -1,3 +1,7 @@
+### Lecture 1: Goals of the course; what is computation; introduction to data types, operators, and variables
+
+
+
 이 수업이 끝나면 얻게될 스킬들
 
 - Computational thinking
