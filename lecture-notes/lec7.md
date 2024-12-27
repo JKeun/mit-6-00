@@ -144,7 +144,9 @@ Pseudocode (의사코드)
 
     - 그리고 나서 이 변수 이름을 내부에 가진 계산의 나머지를 포착하는 함수를 작성
 
-    - ```python
+    - 
+
+      ```python
       def getFloat(reqestMsg, errorMsg):
         inputOK = False
         while not inputOK:
